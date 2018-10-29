@@ -1,10 +1,29 @@
 library(itunesr)
 
 #Latest (Page 1) SC Mobile Reviews for Top Countries
-scin_rev <- getReviews(460909294,'in',1)
-scsg_rev <- getReviews(367337298,'sg',1)
+scin_rev1 <- getReviews(460909294,'in',1)
+scin_rev2 <- getReviews(460909294,'in',3)
+scin_rev3 <- getReviews(460909294,'in',3)
+scin_rev4 <- getReviews(460909294,'in',4)
+scsg_rev1 <- getReviews(367337298,'sg',1)
+scsg_rev2 <- getReviews(367337298,'sg',2)
+scsg_rev3 <- getReviews(367337298,'sg',3)
+scsg_rev4 <- getReviews(367337298,'sg',4)
 scae_rev <- getReviews(535729255,'ae',1)
-schk_rev <- getReviews(445795688,'hk',1)
+schk_rev1 <- getReviews(445795688,'hk',1)
+schk_rev2 <- getReviews(445795688,'hk',2)
+schk_rev3 <- getReviews(445795688,'hk',3)
+schk_rev4 <- getReviews(445795688,'hk',4)
+
+
+#let's combine different pages into one 
+
+scin_rev <- rbind(scin_rev1,scin_rev2,scin_rev3,scin_rev4)
+
+scsg_rev <- rbind(scsg_rev1,scsg_rev2,scsg_rev3,scsg_rev4)
+
+schk_rev <- rbind(schk_rev1,schk_rev2,schk_rev3,schk_rev4)
+
 
 #Displaying the column names 
 names(scin_rev)
@@ -13,6 +32,14 @@ View(scin_rev)
 View(scsg_rev)
 View(scae_rev)
 View(schk_rev)
+
+# writing the output 
+
+write.csv(scin_rev,"scin_rev.csv",row.names = F)
+write.csv(scsg_rev,"scsg_rev.csv",row.names = F)
+write.csv(scae_rev,"scae_rev.csv",row.names = F)
+write.csv(schk_rev,"sckh_rev.csv",row.names = F)
+
 
 #Ratings count from the 50 Reviews
 table(scin_rev$Rating)
@@ -45,6 +72,9 @@ dt_in <- dt_in %>% select(Date,Rating) %>% group_by(Date) %>% summarise(Rating =
 dt_sg <- dt_sg %>% select(Date,Rating) %>% group_by(Date) %>% summarise(Rating = round(mean(Rating),2))
 dt_ae <- dt_ae %>% select(Date,Rating) %>% group_by(Date) %>% summarise(Rating = round(mean(Rating),2))
 dt_hk <- dt_hk %>% select(Date,Rating) %>% group_by(Date) %>% summarise(Rating = round(mean(Rating),2))
+
+
+
 
 highchart() %>%   hc_add_series_times_values(dt_in$Date,dt_in$Rating, name = 'Average Rating - India')
 highchart() %>%   hc_add_series_times_values(dt_sg$Date,dt_sg$Rating, name = 'Average Rating - Singapore')

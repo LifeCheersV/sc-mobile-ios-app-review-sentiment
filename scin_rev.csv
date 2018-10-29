@@ -1,102 +1,326 @@
-"","Title","Author_URL","Author_Name","App_Version","Rating","Review","Date"
-"1","Crashes always","https://itunes.apple.com/in/reviews/id776891782","Blastclan","5.1.0","1","One of the worst app I have used. After the �so called� useless aesthetic updates, the app always crashes. Not even once I could use it. The credit card bill payment is pathetic. I wonder why such a premium bank has one of the worst apps. Sc India should learn from other banks",2018-10-23 14:45:54
-"2","Issues with the application","https://itunes.apple.com/in/reviews/id265045210","Tejsav","5.1.0","1","There has been consistent issues with the application of getting crashed again and again even after uninstalling and installing it n no. Of time and also reseting the entire phone and then again installing it. It would be a great favour if you could solve the issue asap and notify me. Thanks.",2018-10-16 18:36:17
-"3","No Face ID Login for iPhone XS Max","https://itunes.apple.com/in/reviews/id451018333","Abhik13","5.1.0","2","All good with the app except its inability to Face ID login on the iPhone XS Max as yet.",2018-10-13 18:10:25
-"4","Crashing issue","https://itunes.apple.com/in/reviews/id714119812","kashzeba","5.1.0","1","Hi SC,
+"Title","Author_URL","Author_Name","App_Version","Rating","Review","Date"
+"Crashes always","https://itunes.apple.com/in/reviews/id776891782","Blastclan","5.1.0","1","One of the worst app I have used. After the “so called” useless aesthetic updates, the app always crashes. Not even once I could use it. The credit card bill payment is pathetic. I wonder why such a premium bank has one of the worst apps. Sc India should learn from other banks",2018-10-23 14:45:54
+"Issues with the application","https://itunes.apple.com/in/reviews/id265045210","Tejsav","5.1.0","1","There has been consistent issues with the application of getting crashed again and again even after uninstalling and installing it n no. Of time and also reseting the entire phone and then again installing it. It would be a great favour if you could solve the issue asap and notify me. Thanks.",2018-10-16 18:36:17
+"No Face ID Login for iPhone XS Max","https://itunes.apple.com/in/reviews/id451018333","Abhik13","5.1.0","2","All good with the app except its inability to Face ID login on the iPhone XS Max as yet.",2018-10-13 18:10:25
+"Crashing issue","https://itunes.apple.com/in/reviews/id714119812","kashzeba","5.1.0","1","Hi SC,
 
-I am facing issue with app crashing while Trying to logging the app it�s get back on the home screen of the mobile have done re installed procedures but again getting the same issue.",2018-10-13 00:16:26
-"5","Very bad","https://itunes.apple.com/in/reviews/id412500000","amritanshnihit","5.1.0","1","App crashes continuously. Don't allow me to login .... Very unstable",2018-10-12 17:18:43
-"6","App crashes every time","https://itunes.apple.com/in/reviews/id475885602","RatnadeepRaul","5.1.0","2","It crashes on each click on my ios.",2018-09-28 05:30:51
-"7","Crashing","https://itunes.apple.com/in/reviews/id250220910","Dushi_Bhadana","5.1.0","1","Not working for IOS 12....crashing crashing....app is showing this app is not supported for my iphone. i updated n reinstall it 10 times...:just fed up <U+2639><U+FE0F><f0><U+009F><U+0099><U+0084>",2018-09-27 12:32:29
-"8","Worst app","https://itunes.apple.com/in/reviews/id336950047","Sujith R","5.1.0","1","Please check other bank apps like SBI, Citibank etc...and update the app it�s not user friendly and very hard to access even the basic informations.",2018-09-25 04:51:52
-"9","No customer care number","https://itunes.apple.com/in/reviews/id508338008","Elangonkl","5.1.0","3","App doesn�t have customer care number and queries raised inapp not attended",2018-09-05 11:49:52
-"10","App crashing","https://itunes.apple.com/in/reviews/id353816985","Yath19","5.1.0","1","Have updated the app but the app goes on crashing as soon as I am trying to login.",2018-09-02 13:53:40
-"11","Finger print issue","https://itunes.apple.com/in/reviews/id897351132","Vinay Kumar Tiwari","5.1.0","4","Hi ! This is Vinay here 
-I�m using SC mobile app and I want to register my finger print in the app for login but when I register my finger print app is showing error.
-Error is �you have reached the maximum number of devices enabled for touch id login. To enable touch id on this device please disable touch id on your previously registered device.�
-But I�m using iPhone I have not using any other device.",2018-08-31 10:54:19
-"12","App is too slow to operate","https://itunes.apple.com/in/reviews/id417623923","omiee29","5.1.0","1","Frustrating.it takes lot of time to login via fingerprint or by entering manually credentials",2018-08-31 08:15:06
-"13","Toooooooo slow","https://itunes.apple.com/in/reviews/id540062027","Faizy9633","5.1.0","3","Dear Standred, please concentrate on App performance rather than spending much time in UI enhances..!  Because now a days it takes huge time for loading and navigations..!! 
+I am facing issue with app crashing while Trying to logging the app it’s get back on the home screen of the mobile have done re installed procedures but again getting the same issue.",2018-10-13 00:16:26
+"Very bad","https://itunes.apple.com/in/reviews/id412500000","amritanshnihit","5.1.0","1","App crashes continuously. Don't allow me to login .... Very unstable",2018-10-12 17:18:43
+"App crashes every time","https://itunes.apple.com/in/reviews/id475885602","RatnadeepRaul","5.1.0","2","It crashes on each click on my ios.",2018-09-28 05:30:51
+"Crashing","https://itunes.apple.com/in/reviews/id250220910","Dushi_Bhadana","5.1.0","1","Not working for IOS 12....crashing crashing....app is showing this app is not supported for my iphone. i updated n reinstall it 10 times...:just fed up ☹️🙄",2018-09-27 12:32:29
+"Worst app","https://itunes.apple.com/in/reviews/id336950047","Sujith R","5.1.0","1","Please check other bank apps like SBI, Citibank etc...and update the app it’s not user friendly and very hard to access even the basic informations.",2018-09-25 04:51:52
+"No customer care number","https://itunes.apple.com/in/reviews/id508338008","Elangonkl","5.1.0","3","App doesn’t have customer care number and queries raised inapp not attended",2018-09-05 11:49:52
+"App crashing","https://itunes.apple.com/in/reviews/id353816985","Yath19","5.1.0","1","Have updated the app but the app goes on crashing as soon as I am trying to login.",2018-09-02 13:53:40
+"Finger print issue","https://itunes.apple.com/in/reviews/id897351132","Vinay Kumar Tiwari","5.1.0","4","Hi ! This is Vinay here 
+I’m using SC mobile app and I want to register my finger print in the app for login but when I register my finger print app is showing error.
+Error is “you have reached the maximum number of devices enabled for touch id login. To enable touch id on this device please disable touch id on your previously registered device.”
+But I’m using iPhone I have not using any other device.",2018-08-31 10:54:19
+"App is too slow to operate","https://itunes.apple.com/in/reviews/id417623923","omiee29","5.1.0","1","Frustrating.it takes lot of time to login via fingerprint or by entering manually credentials",2018-08-31 08:15:06
+"Toooooooo slow","https://itunes.apple.com/in/reviews/id540062027","Faizy9633","5.1.0","3","Dear Standred, please concentrate on App performance rather than spending much time in UI enhances..!  Because now a days it takes huge time for loading and navigations..!! 
 
 Also Sometimes UI get stuck while doing some operations (Thread management issues...., I am a mobile app developer..! ).  
 
 Please please please, concentrate on App performance...!",2018-08-31 08:00:31
-"14","Worst Bank worst app","https://itunes.apple.com/in/reviews/id882894156","iosRaj","5.1.0","1","Impossible to even contact SC bank",2018-08-26 07:47:03
-"15","basic utilities not there","https://itunes.apple.com/in/reviews/id292918080","rupesh.kumar","5.1.0","3","utilities like airtel mobile or IGL not there. it would be good to have.",2018-08-23 23:10:01
-"16","Technical issues","https://itunes.apple.com/in/reviews/id616929196","sham kashyap","5.1.0","1","Hey team I'm not able to use the app due to some technical issues...each time I open the app it goes blank after updating this issue begin.. so please guide me with this.",2018-08-18 10:21:03
-"17","App keeps crashing when i open it","https://itunes.apple.com/in/reviews/id172671677","Tiger Sport","5.1.0","1","App does not work",2018-08-12 08:02:49
-"18","Keeps on crashing","https://itunes.apple.com/in/reviews/id563842165","Siananda","5.1.0","1","The app is crashing and closing on its own as soon as I click login. Please fix it.",2018-08-12 03:19:07
-"19","App not working or crashing","https://itunes.apple.com/in/reviews/id489043803","ShriSagar","5.1.0","1","Since last update app not working after login app auto crash and back to home screen of phone",2018-08-11 08:55:21
-"20","Poor connective or connective issue","https://itunes.apple.com/in/reviews/id262727141","Shanmugaraj","5.1.0","2","Very frequent connectivity issue
+"Worst Bank worst app","https://itunes.apple.com/in/reviews/id882894156","iosRaj","5.1.0","1","Impossible to even contact SC bank",2018-08-26 07:47:03
+"basic utilities not there","https://itunes.apple.com/in/reviews/id292918080","rupesh.kumar","5.1.0","3","utilities like airtel mobile or IGL not there. it would be good to have.",2018-08-23 23:10:01
+"Technical issues","https://itunes.apple.com/in/reviews/id616929196","sham kashyap","5.1.0","1","Hey team I'm not able to use the app due to some technical issues...each time I open the app it goes blank after updating this issue begin.. so please guide me with this.",2018-08-18 10:21:03
+"App keeps crashing when i open it","https://itunes.apple.com/in/reviews/id172671677","Tiger Sport","5.1.0","1","App does not work",2018-08-12 08:02:49
+"Keeps on crashing","https://itunes.apple.com/in/reviews/id563842165","Siananda","5.1.0","1","The app is crashing and closing on its own as soon as I click login. Please fix it.",2018-08-12 03:19:07
+"App not working or crashing","https://itunes.apple.com/in/reviews/id489043803","ShriSagar","5.1.0","1","Since last update app not working after login app auto crash and back to home screen of phone",2018-08-11 08:55:21
+"Poor connective or connective issue","https://itunes.apple.com/in/reviews/id262727141","Shanmugaraj","5.1.0","2","Very frequent connectivity issue
 Unable to login, it say no network connection even data network is available",2018-08-10 11:09:07
-"21","Application terminates abruptly","https://itunes.apple.com/in/reviews/id274578592","Manohotshot","5.1.0","1","I cant even make a single transaction after the update, the app closes frequently while logging it. There is a major glitch and has to be rectified.",2018-08-10 04:25:36
-"22","Looking good but","https://itunes.apple.com/in/reviews/id440385297","Shiyadazla","5.1.0","3","The exterior is awesome. But while activating �balance on home� it is asking for OTP and those OTPs are taking two hours to deliver<f0><U+009F><U+00A4><U+00A3><f0><U+009F><U+00A4><U+00A3><f0><U+009F><U+00A4><U+00A3>.",2018-08-06 15:33:54
-"23","App crashes","https://itunes.apple.com/in/reviews/id557130547","nitinmdas","5.1.0","2","It crashes every time I try to login",2018-08-04 02:06:01
-"24","Best banking app in India","https://itunes.apple.com/in/reviews/id864609902","atnair_","5.1.0","5","Loved this app. Shows atmost care was taken care for this apps design. IPhone X app is also updated to take care of the notch.",2018-08-01 10:44:43
-"25","Does not work!!!","https://itunes.apple.com/in/reviews/id138879646","Vikramvohra","5.1.0","1","With the new update . The app does not work .",2018-07-31 17:16:18
-"26","After update mobile app is not working properly","https://itunes.apple.com/in/reviews/id674643385","anarauni","5.1.0","1","Hi Team the mobile app after upgrade is not working properly. As soon as i click on login the app closes itself. I am using iphone 6. Kindly suggest what needs to be done.",2018-07-31 11:59:17
-"27","Updated app does not working","https://itunes.apple.com/in/reviews/id802318453","Ali9161","5.1.0","1","Dear 
+"Application terminates abruptly","https://itunes.apple.com/in/reviews/id274578592","Manohotshot","5.1.0","1","I cant even make a single transaction after the update, the app closes frequently while logging it. There is a major glitch and has to be rectified.",2018-08-10 04:25:36
+"Looking good but","https://itunes.apple.com/in/reviews/id440385297","Shiyadazla","5.1.0","3","The exterior is awesome. But while activating “balance on home” it is asking for OTP and those OTPs are taking two hours to deliver🤣🤣🤣.",2018-08-06 15:33:54
+"App crashes","https://itunes.apple.com/in/reviews/id557130547","nitinmdas","5.1.0","2","It crashes every time I try to login",2018-08-04 02:06:01
+"Best banking app in India","https://itunes.apple.com/in/reviews/id864609902","atnair_","5.1.0","5","Loved this app. Shows atmost care was taken care for this apps design. IPhone X app is also updated to take care of the notch.",2018-08-01 10:44:43
+"Does not work!!!","https://itunes.apple.com/in/reviews/id138879646","Vikramvohra","5.1.0","1","With the new update . The app does not work .",2018-07-31 17:16:18
+"After update mobile app is not working properly","https://itunes.apple.com/in/reviews/id674643385","anarauni","5.1.0","1","Hi Team the mobile app after upgrade is not working properly. As soon as i click on login the app closes itself. I am using iphone 6. Kindly suggest what needs to be done.",2018-07-31 11:59:17
+"Updated app does not working","https://itunes.apple.com/in/reviews/id802318453","Ali9161","5.1.0","1","Dear 
 Updated app of SC Breez having Login problem. While i am tapping on Login option app directly through outside and closed.
 Kindly needful.
 
 Regards
 Junedali Kazi",2018-07-30 08:02:16
-"28","July month transaction missing from all tabs","https://itunes.apple.com/in/reviews/id530742248","RaufShaikh","5.1.0","1","Received e statement for July but all listed transactions missing from app.",2018-07-29 15:41:08
-"29","Bug in the latest Update","https://itunes.apple.com/in/reviews/id580173803","neer_91","5.1.0","1","As soon as I tap on the Login it redirects me to home page. Please fix this bug asap.
+"July month transaction missing from all tabs","https://itunes.apple.com/in/reviews/id530742248","RaufShaikh","5.1.0","1","Received e statement for July but all listed transactions missing from app.",2018-07-29 15:41:08
+"Bug in the latest Update","https://itunes.apple.com/in/reviews/id580173803","neer_91","5.1.0","1","As soon as I tap on the Login it redirects me to home page. Please fix this bug asap.
 The version I have is version 8.1.0- w1.0",2018-07-27 06:17:41
-"30","App not working","https://itunes.apple.com/in/reviews/id334547455","KunalBhar","5.1.0","1","The app is not working for almost a week now & the bank�s app developers are not resolving this",2018-07-25 18:07:49
-"31","Unhappy","https://itunes.apple.com/in/reviews/id292999911","Full of rubbish","5.1.0","2","From a good app to a lousy experience. New UI and wingdings but in reality a crippled app. Touchid takes forever, no calendar for future payments anymore, doesn�t work anymore on 3G/4G. Real sloppy management of the app!!",2018-07-22 06:12:22
-"32","Touch id issue","https://itunes.apple.com/in/reviews/id248306955","SwapnilDesai","5.1.0","4","There is no option for previously registered device removal. Its very Helpfull if they provide in app or in site access to reset it. OR Other option so user can reset it counts. 
+"App not working","https://itunes.apple.com/in/reviews/id334547455","KunalBhar","5.1.0","1","The app is not working for almost a week now & the bank’s app developers are not resolving this",2018-07-25 18:07:49
+"Unhappy","https://itunes.apple.com/in/reviews/id292999911","Full of rubbish","5.1.0","2","From a good app to a lousy experience. New UI and wingdings but in reality a crippled app. Touchid takes forever, no calendar for future payments anymore, doesn’t work anymore on 3G/4G. Real sloppy management of the app!!",2018-07-22 06:12:22
+"Touch id issue","https://itunes.apple.com/in/reviews/id248306955","SwapnilDesai","5.1.0","4","There is no option for previously registered device removal. Its very Helpfull if they provide in app or in site access to reset it. OR Other option so user can reset it counts. 
 
 Mine is not working & its saying remove previously registered divide first. 
 Overall app experience is way better then others.",2018-07-21 08:11:57
-"33","Wonderful User Experience","https://itunes.apple.com/in/reviews/id546301785","VisKi1027","5.1.0","5","I seriously do not understand why this app is underrated. It offers the best user experience one would want to have on an app. I am extremely happy with the app!!!",2018-07-20 22:25:22
-"34","Not able to access","https://itunes.apple.com/in/reviews/id511434700","ronnie7989","5.0.3","1","It shows poor/ no connection, even when it is clearly connected to my wifi which is working perfectly well.
+"Wonderful User Experience","https://itunes.apple.com/in/reviews/id546301785","VisKi1027","5.1.0","5","I seriously do not understand why this app is underrated. It offers the best user experience one would want to have on an app. I am extremely happy with the app!!!",2018-07-20 22:25:22
+"Not able to access","https://itunes.apple.com/in/reviews/id511434700","ronnie7989","5.0.3","1","It shows poor/ no connection, even when it is clearly connected to my wifi which is working perfectly well.
 Please help!",2018-07-17 18:57:21
-"35","No support for Mutual Fund","https://itunes.apple.com/in/reviews/id657883025","Life's an illusion","5.0.3","1","We cannot start investing in Mutual fund online. You are forced to visit the bank. Bank representative is least interested in explaining Mutual Fund they will bombard you with Term insurance or big investment plans. Less / no support from Bank representatives. Disappointed but still had hope so called up voice customer care, the guy was quick enough to give a toll free helpline number which turned out to be for Securities only. After 3 years with SC, this is the first time I think about moving my account to another one. Investing in Mutual Fund via SC seems be a dream now. 
+"No support for Mutual Fund","https://itunes.apple.com/in/reviews/id657883025","Life's an illusion","5.0.3","1","We cannot start investing in Mutual fund online. You are forced to visit the bank. Bank representative is least interested in explaining Mutual Fund they will bombard you with Term insurance or big investment plans. Less / no support from Bank representatives. Disappointed but still had hope so called up voice customer care, the guy was quick enough to give a toll free helpline number which turned out to be for Securities only. After 3 years with SC, this is the first time I think about moving my account to another one. Investing in Mutual Fund via SC seems be a dream now. 
 
-It seem they have invested all their money in Anushka Sharma�s ad campaign instead of customer support. 
+It seem they have invested all their money in Anushka Sharma’s ad campaign instead of customer support. 
 
 Pathetic!!!",2018-07-16 08:59:06
-"36","PDF Format is NA for downloading E-statement","https://itunes.apple.com/in/reviews/id553412831","Sairam Ekambaram","5.0.3","2","Hi Team,
+"PDF Format is NA for downloading E-statement","https://itunes.apple.com/in/reviews/id553412831","Sairam Ekambaram","5.0.3","2","Hi Team,
 
-We should have options to E- statements in pdf format too apart from excel and txt format. Add this option in website, I assume we can�t download any statements in app.
+We should have options to E- statements in pdf format too apart from excel and txt format. Add this option in website, I assume we can’t download any statements in app.
 
 Please improve this feature in next update.
 
 Thanks & Regards,
 SCB user",2018-07-15 12:06:41
-"37","Updation Necessity","https://itunes.apple.com/in/reviews/id593258272","Gowtham_robin","5.0.3","2","New updation in app which is good.
+"Updation Necessity","https://itunes.apple.com/in/reviews/id593258272","Gowtham_robin","5.0.3","2","New updation in app which is good.
 
 Better service check with other bank apps e.g.:axis bank apps, Vijaya bank apps 
 So that you can give the best service on mobile banking.
-But now it�s looking like a net banking on mobile.
+But now it’s looking like a net banking on mobile.
 By improving you can meet the user friendly app for the users.",2018-07-11 11:37:42
-"38","Issues in Touch ID","https://itunes.apple.com/in/reviews/id768074376","sl2907","5.0.3","3","Touch ID is not working",2018-07-09 07:56:38
-"39","What a background...just uninstalled","https://itunes.apple.com/in/reviews/id426753574","Skthilak","5.0.3","1","App support:- Invalid URL
+"Issues in Touch ID","https://itunes.apple.com/in/reviews/id768074376","sl2907","5.0.3","3","Touch ID is not working",2018-07-09 07:56:38
+"What a background...just uninstalled","https://itunes.apple.com/in/reviews/id426753574","Skthilak","5.0.3","1","App support:- Invalid URL
 
 The requested URL ""[no URL]"", is invalid.
 Reference #9.98027073.1531063628.20817868",2018-07-08 16:29:05
-"40","Mind Blowing!","https://itunes.apple.com/in/reviews/id564731666","Y.SANTOSH'","5.0.3","5","I always felt in the past that Stan Chart�s mobile app just fell short of my expectations.. But the Latest Updtae is not is the Best Version it ever had but easily I feel leaves all the banking apps.. I use 10 banking apps but none seemed as impressive as this one..
+"Mind Blowing!","https://itunes.apple.com/in/reviews/id564731666","Y.SANTOSH'","5.0.3","5","I always felt in the past that Stan Chart’s mobile app just fell short of my expectations.. But the Latest Updtae is not is the Best Version it ever had but easily I feel leaves all the banking apps.. I use 10 banking apps but none seemed as impressive as this one..
 
 A Big Thumbs Up!!",2018-07-08 13:30:05
-"41","Awesome","https://itunes.apple.com/in/reviews/id457246435","Abdul Malik Aman","5.0.3","5","Really happy with new interface and features..
-Expecting next levels highly.. <f0><U+009F><U+0098><U+008A><f0><U+009F><U+0091><U+008D>",2018-07-06 07:52:46
-"42","Update made it slow","https://itunes.apple.com/in/reviews/id825956241","Dragonfly9088","5.0.3","3","I really love the look of the new app but it is extremely slow now. It takes time to load every single page.",2018-07-03 18:43:46
-"43","Great banking app","https://itunes.apple.com/in/reviews/id101883321","RahulSaha","5.0.3","5","The new update actually made me come here and review it. The dynamic wallpaper is a stunning addition to the app. Makes it beautiful and different. The app itself is very good because you can add payees or delete them without having to login to your online banking on your laptop. The debit and credit information are very neat as compared to other bank apps like citibank. Good job guys! Keep it up!",2018-07-01 11:56:02
-"44","App doesn�t even work","https://itunes.apple.com/in/reviews/id573178109","jbvin6","5.0.3","4","You can�t even login. It says temporary out of service",2018-06-29 19:48:09
-"45","Awesome exterior , sore interior","https://itunes.apple.com/in/reviews/id471249015","PaVaNRed","5.0.3","3","Last time I wrote the review , I had mentioned how bad the app features were and that other local banks had better apps. 
+"Awesome","https://itunes.apple.com/in/reviews/id457246435","Abdul Malik Aman","5.0.3","5","Really happy with new interface and features..
+Expecting next levels highly.. 😊👍",2018-07-06 07:52:46
+"Update made it slow","https://itunes.apple.com/in/reviews/id825956241","Dragonfly9088","5.0.3","3","I really love the look of the new app but it is extremely slow now. It takes time to load every single page.",2018-07-03 18:43:46
+"Great banking app","https://itunes.apple.com/in/reviews/id101883321","RahulSaha","5.0.3","5","The new update actually made me come here and review it. The dynamic wallpaper is a stunning addition to the app. Makes it beautiful and different. The app itself is very good because you can add payees or delete them without having to login to your online banking on your laptop. The debit and credit information are very neat as compared to other bank apps like citibank. Good job guys! Keep it up!",2018-07-01 11:56:02
+"App doesn’t even work","https://itunes.apple.com/in/reviews/id573178109","jbvin6","5.0.3","4","You can’t even login. It says temporary out of service",2018-06-29 19:48:09
+"Awesome exterior , sore interior","https://itunes.apple.com/in/reviews/id471249015","PaVaNRed","5.0.3","3","Last time I wrote the review , I had mentioned how bad the app features were and that other local banks had better apps. 
 
 Now with this update , they have increased the oomph factor but still app needs better packaging. Still face the issue with OTP entering and once you enter the app, same old problems exist. 
 
 Better spend on required things rather than painting the exteriors with colours.",2018-06-29 15:25:02
-"46","Love the new update!","https://itunes.apple.com/in/reviews/id283557037","-=DeadLoCk=-","5.0.3","5","Starting with the user interface , it looks amazing! The app has got smoother and couple of new features like instant balance check. Which I think is necessary. 
+"Love the new update!","https://itunes.apple.com/in/reviews/id283557037","-=DeadLoCk=-","5.0.3","5","Starting with the user interface , it looks amazing! The app has got smoother and couple of new features like instant balance check. Which I think is necessary. 
 5 stars *****",2018-06-29 08:00:52
-"47","Nice Update !!","https://itunes.apple.com/in/reviews/id421423443","deesh2516","5.0.3","5","Finally a nice update in terms of UI and Functionality.
+"Nice Update !!","https://itunes.apple.com/in/reviews/id421423443","deesh2516","5.0.3","5","Finally a nice update in terms of UI and Functionality.
 Some home we are saved from the login error.
 General exception.
 Way to go !!",2018-06-29 03:34:35
-"48","App fails to login with Face ID","https://itunes.apple.com/in/reviews/id242578586","Maxphilip","5.0.3","1","Application fails to log us through Face ID keeps getting error message",2018-06-28 19:01:01
-"49","Great update!","https://itunes.apple.com/in/reviews/id451583070","Ashwin Rajan","5.0.3","5","The new update takes the app to a different level! 
+"App fails to login with Face ID","https://itunes.apple.com/in/reviews/id242578586","Maxphilip","5.0.3","1","Application fails to log us through Face ID keeps getting error message",2018-06-28 19:01:01
+"Great update!","https://itunes.apple.com/in/reviews/id451583070","Ashwin Rajan","5.0.3","5","The new update takes the app to a different level! 
 
 The look is neat, crisp and pleaaing. The basic functionality of the app, signing in, checking balances and other such functions are buttery smooth and easy to access. Once I have used the other functions, i'll know how good the app has become; but looking at how everything is so far, I am very happy! Kudos to the team!",2018-06-28 12:41:40
+"Good app, Face ID missing though","https://itunes.apple.com/in/reviews/id437465993","djiablo","3.3.0","3","This is a good enough app for tracking your account/s, been using it for a long time. Touch ID was too convenient a feature on previous generations. Although addition of Face ID would be a great addition in the features list.",2018-05-02 21:51:10
+"Face id open error in iphone x","https://itunes.apple.com/in/reviews/id349650076","Phne 4s","3.3.0","1","There is serious issue while opening the app with face id as well as by password 
+Its just rolling and not able to open kindly do needful on urgent basis as its creating serious issue while transact",2018-05-01 13:17:36
+"It’s not Breeze. It’s Bizarre...","https://itunes.apple.com/in/reviews/id453103881","Sudhansu@leadics","3.3.0","1","You guys should really work on this. The worst banking app I ever seen. No proper error msg no proper msg to user what is going on. Sometimes its login sometimes its showing 2154 error though I used correct user id and pwd. Some time its just loading.. it’s really bizarre.",2018-05-01 07:37:44
+"Good app with options but time for upgrade","https://itunes.apple.com/in/reviews/id169230792","pdhakshinamoorthy","3.3.0","3","I like the usability of the app but it’s still old fashioned. The app can really take advantage of some ios native functionalities and please add support for iphoneX",2018-05-01 04:47:48
+"Very worst UI","https://itunes.apple.com/in/reviews/id299527928","nonamefor review","3.2.9","1","The ui is not responding most of the time. You can’t even enter the amount some time.",2018-04-25 14:59:16
+"Way too slow","https://itunes.apple.com/in/reviews/id507991911","Chhama","3.2.9","2","The app is slower than other mobile banking apps.",2018-04-25 08:02:01
+"Display","https://itunes.apple.com/in/reviews/id766401499","raghusrini","3.2.8","1","It is not showing anything just loading loading loading, please let me know how to solve",2018-04-23 20:51:33
+"UNABLE TO LOGIN VIA TOUCH ID","https://itunes.apple.com/in/reviews/id541988920","Ssingh1670","3.2.8","1","After latest update it is not allowing me to login via Touch ID. Please take this on priority and set this up ASAP Very irritating it is. 
+
+And besides that when are you enabling your mobile/ debit or credit cards to Apple wallet unlike HDFC. They have enabled this quite sometime earlier whereas SC BANK is supposed to be more smarter I believe",2018-04-21 18:57:52
+"Worst interface app","https://itunes.apple.com/in/reviews/id465450113","Smart RB","3.2.8","1","No update development,, what we paid we don’t know , what we have the balance don’t know,, worst experience ,,",2018-04-21 06:31:07
+"No option to see reward points","https://itunes.apple.com/in/reviews/id498465509","muneesh chauhan","3.2.8","1","There is no option to check rewards points in app. Whenever I tried on web it always shows 360 rewards is temporary unavailable.",2018-04-18 04:46:40
+"Customer","https://itunes.apple.com/in/reviews/id288130968","khanhirawasim","3.2.7","1","I don’t know why you people change user interface and add something extra there’s no option to check available credit card limit and the worst thing is payment update 
+Usually bank update the payment at a time if I pay my credit card outstanding from same bank account but today I have spoken with your customer care and they said your payment will update 1 working day. 
+Worst banking system from world’s leading Bank",2018-03-25 08:12:51
+"iPhone X support","https://itunes.apple.com/in/reviews/id305460455","Avengers r back","3.1.6","3","It’s been 4 months and no iPhone X support.... pls come out with an iPhone X support now at least.",2018-02-12 01:53:48
+"Please update for Face ID and iPhone X","https://itunes.apple.com/in/reviews/id142278927","Survivor1984","3.1.6","2","Please update for Face ID and iPhone X",2018-01-22 03:08:07
+"Poor features and functionality","https://itunes.apple.com/in/reviews/id189279318","GauravBhardwaj","3.1.6","1","How can SC even put up this caliber of an App. This is a classic check in the box App, which pretty much does nothing other than account balance and transfer. Leaves a lot to be desired from this so called banking App. Look around, see what other banks are doing..reality check required!",2018-01-19 08:06:13
+"Payment through QR Code does not work properly","https://itunes.apple.com/in/reviews/id469003527","Asgedhskedbskaggsbd sjhvhshvv","3.1.6","1","This application does not support all the bharat QR CODE. I have raised the complaint multiple times over the email along with the screenshot of error code and the qr codes but still no resolution has been provided. Much better applications available for making payments through qr code. Disappointed with the customer service.",2018-01-12 14:25:26
+"Lagging","https://itunes.apple.com/in/reviews/id189118228","Anush karira","3.1.6","1","Too much lag in the app 
+The app UI is too confusing",2018-01-11 16:15:47
+"Getting exceptions","https://itunes.apple.com/in/reviews/id687468652","Pavan Behara","3.1.5","3","Getting exceptions for Uber payments",2017-12-30 10:37:28
+"Frauds","https://itunes.apple.com/in/reviews/id635033251","sam khazi","3.1.3","1","These guys are frauds they are deducting our cash from our account for no reasons f**k this bank 
+Plzzzz guys I humbly request you that don’t open any type of account in this server",2017-12-04 16:52:04
+"Not able to add touch id for login","https://itunes.apple.com/in/reviews/id525587272","thanseermh","3.1.3","4","When i try to enable touch id login app shows the message “you have reached the maximum number of devices enabled for touch id login. To enable touch id on this device please disable touch id on a previously registered device”. 
+Please give a solution to this issue.",2017-11-02 08:58:11
+"Improve OTP entry window","https://itunes.apple.com/in/reviews/id400456520","Sankets25","3.1.3","2","Please improve OTP entry window",2017-11-02 05:06:46
+"QR code option is asking too many confirmations","https://itunes.apple.com/in/reviews/id507493287","Siva SK","3.1.3","3","Minimise the number of confirmation steps while making payments using QR code",2017-10-22 15:53:53
+"Not Optimized Well","https://itunes.apple.com/in/reviews/id551534603","Sky223223","3.1.2","2","What a shame when banks don’t have their apps optimized well.
+Doesn’t even fit on the full screen on iPhone 7 Plus.",2017-10-21 23:06:48
+"Useless and Poor designer app","https://itunes.apple.com/in/reviews/id567566613","Gaurav Kale","3.1.2","1","The app is so poorly designed, very poor and low level validations.. a 10 year kid can create more powerful app than this app..
+It took more than 10 attempts to set up username password.. you dump developer, don’t you have a basic knowledge about developing and some validations ? 
+Alpanumeric and all errors..!!
+Totally frustrated..
+Uninstalling this app and throwing back this credit card..",2017-10-11 14:20:04
+"App only white screen","https://itunes.apple.com/in/reviews/id465179833","Msgiri","3.1.2","2","Hi SC, I've downloaded mobile banking app but while trying to logging in only white screen is appearing nothing is showing more than that.. Pls help me out",2017-09-24 16:30:19
+"Smooth app","https://itunes.apple.com/in/reviews/id452710763","Hamer46","3.1.2","4","I would've given 5 stars if this app has the ability of adding beneficiary",2017-09-13 23:03:21
+"Very nice app","https://itunes.apple.com/in/reviews/id483765911","Manjunatha BR","3.1.1","5","Very useful and fantastic app ever seen in banking app",2017-09-05 11:54:22
+"This update is very buggy","https://itunes.apple.com/in/reviews/id501471408","Harendra tiwari","3.0.2","1","not working properly.",2017-08-19 22:42:07
+"Error while updating details","https://itunes.apple.com/in/reviews/id384236908","Praneeth sontha","2.9.0","2","I have tried to update the Aadhar details through app, the app gets crashed while uploading/ taking a pic. Need an update",2017-08-05 17:53:20
+"App getting crashed while saving aadhar","https://itunes.apple.com/in/reviews/id274357740","sandy-)","2.9.0","2","App getting crashed while saving aadhar",2017-08-05 10:07:39
+"Crash","https://itunes.apple.com/in/reviews/id598930726","nitusingh","2.9.0","3","App getting crashed while updating Aadhar card details",2017-08-04 14:52:01
+"UPI option missing","https://itunes.apple.com/in/reviews/id397702455","Sunny Salaria","2.8.0","2","I am not able to find UPI option in app.",2017-07-10 20:47:25
+"App look like a browser","https://itunes.apple.com/in/reviews/id443728285","Ba saravanan","2.7.8","2","This like only a browser.. 
+no future. Pls improve the app look lk another bank",2017-06-18 04:05:15
+"Useless update","https://itunes.apple.com/in/reviews/id332538388","Pb1405","2.7.8","1","App not working in my iphone 4 after the update",2017-06-11 18:38:09
+"OTP section touch problem","https://itunes.apple.com/in/reviews/id435121807","NitinMalik123","2.7.6","3","App has become good after frequent updates. But i face problem while doing transfers and other transactions in entering otp . The touch doesn't work properly in that section. I have to tap 3 4 times to show keyboard and enter otp.",2017-06-01 06:53:31
+"Application not working","https://itunes.apple.com/in/reviews/id527597826","Tevatia13","2.7.7","1","App unable to install after last update.Please fix.",2017-05-03 06:57:08
+"App is not opening","https://itunes.apple.com/in/reviews/id513172079","vikxi","2.7.7","1","After the latest update app is not even opening. I tried reinstalling it but no luck.
+Try fixing it plz.",2017-05-02 01:33:04
+"Very good","https://itunes.apple.com/in/reviews/id328591431","Shraddha-ja","2.7.7","5","Gr8 app.. problem with otp .. after receiving OTP ... it takes quite a long time to open next page to enter OTP",2017-04-30 18:01:37
+"Super fast Super quick Touch ID feature","https://itunes.apple.com/in/reviews/id322388277","Jose6377","2.7.6","5","Super easy and best user experience",2017-04-23 11:38:17
+"Unable to activate Touch ID","https://itunes.apple.com/in/reviews/id272265039","Ocserksjfj","2.7.6","1","I tried several times to activate the Touch ID but it just doesn't work..!",2017-04-22 12:40:18
+"App white screen not opening on IOS 7","https://itunes.apple.com/in/reviews/id396935425","Sekarbeess","2.7.5","1","App not opening on IOS 7 from last two updates...",2017-03-27 07:53:02
+"App doesn't load, white screen remains still.","https://itunes.apple.com/in/reviews/id235715362","Lijooo12","2.7.5","1","Not able to open in ios 7",2017-03-26 11:05:03
+"App doesn't load on iOS 7","https://itunes.apple.com/in/reviews/id288984573","Jnksks","2.7.5","1","Upon opening the app only a blank white screen is seen.",2017-03-23 15:56:23
+"Not opening on IOS7. Even not on previous version of this app","https://itunes.apple.com/in/reviews/id188131771","Bkodee","2.7.5","1","Not opening on IOS7. Even not on previous version of this app",2017-03-23 06:16:32
+"iPhone 4 Users DON'T Update","https://itunes.apple.com/in/reviews/id188014328","Firdaus Mehta","2.7.3","1","iPhone 4 users Please DON'T Update.. I recently updated the app on my iPhone 4 (iOS 7.1.2) & the app stopped working :( 
+I am stuck.. The developers are not bothered & not doing anything about this issue.. I complained previously also..
+SCB Developers check & rectify the issue ASAP.",2017-03-05 16:04:36
+"Excellent","https://itunes.apple.com/in/reviews/id527540006","Gaurav Jaidka","2.7.3","5","Best banking app ever",2017-03-04 05:04:56
+"Pretty User Friendly","https://itunes.apple.com/in/reviews/id457343972","Ashish2808","2.6.5","5","Use this for quick transfers and checking latest transaction history!",2017-02-17 11:41:02
+"Bugs/Issues","https://itunes.apple.com/in/reviews/id446708649","nayaksovan","2.7.1","3","There's no ""Forgot Password"" option. Have to use a laptop/desktop for it.
+The calendar is also malfunctioning. The option to go to previous month is not visible. 
+
+An option for reminders for bill payment would be handy.",2017-02-16 17:39:14
+"Awesome app","https://itunes.apple.com/in/reviews/id499643620","raviteja.953","2.7.1","4","Really love the app. But need some improvements,
+
+1. Introduce UPI Transfer in the app.
+
+2. While making a transaction it is asking for OTP, but the OTP box would be in the top and submit will be in bottom. Why can't you change the OTP entering box to bottom near submit button.
+3.An option to change ATM pin
+4. An option to Change personal details like phone number, address.",2017-02-12 03:21:02
+"Usage Time","https://itunes.apple.com/in/reviews/id366529609","--ENLIGHTENED--","2.7.1","4","The usage time displayed after a user logs off is always same ie 5 mins irrespective of the real usage time",2017-02-11 11:58:39
+"Good app, Face ID missing though","https://itunes.apple.com/in/reviews/id437465993","djiablo","3.3.0","3","This is a good enough app for tracking your account/s, been using it for a long time. Touch ID was too convenient a feature on previous generations. Although addition of Face ID would be a great addition in the features list.",2018-05-02 21:51:10
+"Face id open error in iphone x","https://itunes.apple.com/in/reviews/id349650076","Phne 4s","3.3.0","1","There is serious issue while opening the app with face id as well as by password 
+Its just rolling and not able to open kindly do needful on urgent basis as its creating serious issue while transact",2018-05-01 13:17:36
+"It’s not Breeze. It’s Bizarre...","https://itunes.apple.com/in/reviews/id453103881","Sudhansu@leadics","3.3.0","1","You guys should really work on this. The worst banking app I ever seen. No proper error msg no proper msg to user what is going on. Sometimes its login sometimes its showing 2154 error though I used correct user id and pwd. Some time its just loading.. it’s really bizarre.",2018-05-01 07:37:44
+"Good app with options but time for upgrade","https://itunes.apple.com/in/reviews/id169230792","pdhakshinamoorthy","3.3.0","3","I like the usability of the app but it’s still old fashioned. The app can really take advantage of some ios native functionalities and please add support for iphoneX",2018-05-01 04:47:48
+"Very worst UI","https://itunes.apple.com/in/reviews/id299527928","nonamefor review","3.2.9","1","The ui is not responding most of the time. You can’t even enter the amount some time.",2018-04-25 14:59:16
+"Way too slow","https://itunes.apple.com/in/reviews/id507991911","Chhama","3.2.9","2","The app is slower than other mobile banking apps.",2018-04-25 08:02:01
+"Display","https://itunes.apple.com/in/reviews/id766401499","raghusrini","3.2.8","1","It is not showing anything just loading loading loading, please let me know how to solve",2018-04-23 20:51:33
+"UNABLE TO LOGIN VIA TOUCH ID","https://itunes.apple.com/in/reviews/id541988920","Ssingh1670","3.2.8","1","After latest update it is not allowing me to login via Touch ID. Please take this on priority and set this up ASAP Very irritating it is. 
+
+And besides that when are you enabling your mobile/ debit or credit cards to Apple wallet unlike HDFC. They have enabled this quite sometime earlier whereas SC BANK is supposed to be more smarter I believe",2018-04-21 18:57:52
+"Worst interface app","https://itunes.apple.com/in/reviews/id465450113","Smart RB","3.2.8","1","No update development,, what we paid we don’t know , what we have the balance don’t know,, worst experience ,,",2018-04-21 06:31:07
+"No option to see reward points","https://itunes.apple.com/in/reviews/id498465509","muneesh chauhan","3.2.8","1","There is no option to check rewards points in app. Whenever I tried on web it always shows 360 rewards is temporary unavailable.",2018-04-18 04:46:40
+"Customer","https://itunes.apple.com/in/reviews/id288130968","khanhirawasim","3.2.7","1","I don’t know why you people change user interface and add something extra there’s no option to check available credit card limit and the worst thing is payment update 
+Usually bank update the payment at a time if I pay my credit card outstanding from same bank account but today I have spoken with your customer care and they said your payment will update 1 working day. 
+Worst banking system from world’s leading Bank",2018-03-25 08:12:51
+"iPhone X support","https://itunes.apple.com/in/reviews/id305460455","Avengers r back","3.1.6","3","It’s been 4 months and no iPhone X support.... pls come out with an iPhone X support now at least.",2018-02-12 01:53:48
+"Please update for Face ID and iPhone X","https://itunes.apple.com/in/reviews/id142278927","Survivor1984","3.1.6","2","Please update for Face ID and iPhone X",2018-01-22 03:08:07
+"Poor features and functionality","https://itunes.apple.com/in/reviews/id189279318","GauravBhardwaj","3.1.6","1","How can SC even put up this caliber of an App. This is a classic check in the box App, which pretty much does nothing other than account balance and transfer. Leaves a lot to be desired from this so called banking App. Look around, see what other banks are doing..reality check required!",2018-01-19 08:06:13
+"Payment through QR Code does not work properly","https://itunes.apple.com/in/reviews/id469003527","Asgedhskedbskaggsbd sjhvhshvv","3.1.6","1","This application does not support all the bharat QR CODE. I have raised the complaint multiple times over the email along with the screenshot of error code and the qr codes but still no resolution has been provided. Much better applications available for making payments through qr code. Disappointed with the customer service.",2018-01-12 14:25:26
+"Lagging","https://itunes.apple.com/in/reviews/id189118228","Anush karira","3.1.6","1","Too much lag in the app 
+The app UI is too confusing",2018-01-11 16:15:47
+"Getting exceptions","https://itunes.apple.com/in/reviews/id687468652","Pavan Behara","3.1.5","3","Getting exceptions for Uber payments",2017-12-30 10:37:28
+"Frauds","https://itunes.apple.com/in/reviews/id635033251","sam khazi","3.1.3","1","These guys are frauds they are deducting our cash from our account for no reasons f**k this bank 
+Plzzzz guys I humbly request you that don’t open any type of account in this server",2017-12-04 16:52:04
+"Not able to add touch id for login","https://itunes.apple.com/in/reviews/id525587272","thanseermh","3.1.3","4","When i try to enable touch id login app shows the message “you have reached the maximum number of devices enabled for touch id login. To enable touch id on this device please disable touch id on a previously registered device”. 
+Please give a solution to this issue.",2017-11-02 08:58:11
+"Improve OTP entry window","https://itunes.apple.com/in/reviews/id400456520","Sankets25","3.1.3","2","Please improve OTP entry window",2017-11-02 05:06:46
+"QR code option is asking too many confirmations","https://itunes.apple.com/in/reviews/id507493287","Siva SK","3.1.3","3","Minimise the number of confirmation steps while making payments using QR code",2017-10-22 15:53:53
+"Not Optimized Well","https://itunes.apple.com/in/reviews/id551534603","Sky223223","3.1.2","2","What a shame when banks don’t have their apps optimized well.
+Doesn’t even fit on the full screen on iPhone 7 Plus.",2017-10-21 23:06:48
+"Useless and Poor designer app","https://itunes.apple.com/in/reviews/id567566613","Gaurav Kale","3.1.2","1","The app is so poorly designed, very poor and low level validations.. a 10 year kid can create more powerful app than this app..
+It took more than 10 attempts to set up username password.. you dump developer, don’t you have a basic knowledge about developing and some validations ? 
+Alpanumeric and all errors..!!
+Totally frustrated..
+Uninstalling this app and throwing back this credit card..",2017-10-11 14:20:04
+"App only white screen","https://itunes.apple.com/in/reviews/id465179833","Msgiri","3.1.2","2","Hi SC, I've downloaded mobile banking app but while trying to logging in only white screen is appearing nothing is showing more than that.. Pls help me out",2017-09-24 16:30:19
+"Smooth app","https://itunes.apple.com/in/reviews/id452710763","Hamer46","3.1.2","4","I would've given 5 stars if this app has the ability of adding beneficiary",2017-09-13 23:03:21
+"Very nice app","https://itunes.apple.com/in/reviews/id483765911","Manjunatha BR","3.1.1","5","Very useful and fantastic app ever seen in banking app",2017-09-05 11:54:22
+"This update is very buggy","https://itunes.apple.com/in/reviews/id501471408","Harendra tiwari","3.0.2","1","not working properly.",2017-08-19 22:42:07
+"Error while updating details","https://itunes.apple.com/in/reviews/id384236908","Praneeth sontha","2.9.0","2","I have tried to update the Aadhar details through app, the app gets crashed while uploading/ taking a pic. Need an update",2017-08-05 17:53:20
+"App getting crashed while saving aadhar","https://itunes.apple.com/in/reviews/id274357740","sandy-)","2.9.0","2","App getting crashed while saving aadhar",2017-08-05 10:07:39
+"Crash","https://itunes.apple.com/in/reviews/id598930726","nitusingh","2.9.0","3","App getting crashed while updating Aadhar card details",2017-08-04 14:52:01
+"UPI option missing","https://itunes.apple.com/in/reviews/id397702455","Sunny Salaria","2.8.0","2","I am not able to find UPI option in app.",2017-07-10 20:47:25
+"App look like a browser","https://itunes.apple.com/in/reviews/id443728285","Ba saravanan","2.7.8","2","This like only a browser.. 
+no future. Pls improve the app look lk another bank",2017-06-18 04:05:15
+"Useless update","https://itunes.apple.com/in/reviews/id332538388","Pb1405","2.7.8","1","App not working in my iphone 4 after the update",2017-06-11 18:38:09
+"OTP section touch problem","https://itunes.apple.com/in/reviews/id435121807","NitinMalik123","2.7.6","3","App has become good after frequent updates. But i face problem while doing transfers and other transactions in entering otp . The touch doesn't work properly in that section. I have to tap 3 4 times to show keyboard and enter otp.",2017-06-01 06:53:31
+"Application not working","https://itunes.apple.com/in/reviews/id527597826","Tevatia13","2.7.7","1","App unable to install after last update.Please fix.",2017-05-03 06:57:08
+"App is not opening","https://itunes.apple.com/in/reviews/id513172079","vikxi","2.7.7","1","After the latest update app is not even opening. I tried reinstalling it but no luck.
+Try fixing it plz.",2017-05-02 01:33:04
+"Very good","https://itunes.apple.com/in/reviews/id328591431","Shraddha-ja","2.7.7","5","Gr8 app.. problem with otp .. after receiving OTP ... it takes quite a long time to open next page to enter OTP",2017-04-30 18:01:37
+"Super fast Super quick Touch ID feature","https://itunes.apple.com/in/reviews/id322388277","Jose6377","2.7.6","5","Super easy and best user experience",2017-04-23 11:38:17
+"Unable to activate Touch ID","https://itunes.apple.com/in/reviews/id272265039","Ocserksjfj","2.7.6","1","I tried several times to activate the Touch ID but it just doesn't work..!",2017-04-22 12:40:18
+"App white screen not opening on IOS 7","https://itunes.apple.com/in/reviews/id396935425","Sekarbeess","2.7.5","1","App not opening on IOS 7 from last two updates...",2017-03-27 07:53:02
+"App doesn't load, white screen remains still.","https://itunes.apple.com/in/reviews/id235715362","Lijooo12","2.7.5","1","Not able to open in ios 7",2017-03-26 11:05:03
+"App doesn't load on iOS 7","https://itunes.apple.com/in/reviews/id288984573","Jnksks","2.7.5","1","Upon opening the app only a blank white screen is seen.",2017-03-23 15:56:23
+"Not opening on IOS7. Even not on previous version of this app","https://itunes.apple.com/in/reviews/id188131771","Bkodee","2.7.5","1","Not opening on IOS7. Even not on previous version of this app",2017-03-23 06:16:32
+"iPhone 4 Users DON'T Update","https://itunes.apple.com/in/reviews/id188014328","Firdaus Mehta","2.7.3","1","iPhone 4 users Please DON'T Update.. I recently updated the app on my iPhone 4 (iOS 7.1.2) & the app stopped working :( 
+I am stuck.. The developers are not bothered & not doing anything about this issue.. I complained previously also..
+SCB Developers check & rectify the issue ASAP.",2017-03-05 16:04:36
+"Excellent","https://itunes.apple.com/in/reviews/id527540006","Gaurav Jaidka","2.7.3","5","Best banking app ever",2017-03-04 05:04:56
+"Pretty User Friendly","https://itunes.apple.com/in/reviews/id457343972","Ashish2808","2.6.5","5","Use this for quick transfers and checking latest transaction history!",2017-02-17 11:41:02
+"Bugs/Issues","https://itunes.apple.com/in/reviews/id446708649","nayaksovan","2.7.1","3","There's no ""Forgot Password"" option. Have to use a laptop/desktop for it.
+The calendar is also malfunctioning. The option to go to previous month is not visible. 
+
+An option for reminders for bill payment would be handy.",2017-02-16 17:39:14
+"Awesome app","https://itunes.apple.com/in/reviews/id499643620","raviteja.953","2.7.1","4","Really love the app. But need some improvements,
+
+1. Introduce UPI Transfer in the app.
+
+2. While making a transaction it is asking for OTP, but the OTP box would be in the top and submit will be in bottom. Why can't you change the OTP entering box to bottom near submit button.
+3.An option to change ATM pin
+4. An option to Change personal details like phone number, address.",2017-02-12 03:21:02
+"Usage Time","https://itunes.apple.com/in/reviews/id366529609","--ENLIGHTENED--","2.7.1","4","The usage time displayed after a user logs off is always same ie 5 mins irrespective of the real usage time",2017-02-11 11:58:39
+"Finally, the most awaited feature is added..","https://itunes.apple.com/in/reviews/id334921618","Nikhil Viswanath","2.7.1","4","It was a shame that the app did not support the possibility to add a new payee on the go. 
+
+Good work in finally bringing up this feature. It works seamlessly and the interface is beautiful and flowing as always. 
+
+Still not giving it a ""5-star rating"" because there is no option to remove existing payees. 
+
+On the whole, still a good app with a clean UI.!!",2017-02-11 06:32:20
+"Not good for credit card users","https://itunes.apple.com/in/reviews/id484696029","Virendra4040","2.6.5","1","It's has very less features for credit card. All focus on bank account. You will have to add some more features for credit card. Your credit card is too popular but you don't have something new for credit card apps. Tnx",2017-02-05 03:14:02
+"Useless and totally unreliable app","https://itunes.apple.com/in/reviews/id420760273","AnkurSooraj","2.6.5","1","It takes weeks for the credit card transactions to appear in the app.",2017-02-04 19:26:29
+"Worst App","https://itunes.apple.com/in/reviews/id473337863","Kaushik_tr23","2.6.5","1","The transaction on credit card is displayed from day one. It's confusing what is been used for the current bill cycle.",2017-02-01 05:12:48
+"Touch ID - need more security","https://itunes.apple.com/in/reviews/id182984134","Polepalli","2.6.5","2","Good option, implemented without sufficient thinking.
+We all feel that cellphone is personal but not entirely true. Many will share cell passwords with family and have Touch ID configured for spouse and in many cases for kids for various reasons. Enabling all touchid access to all touchid is a security and safety concern.
+If you link it to one specific fingerprint, it makes more sense.
+Till then, this is fancy option and may be used by few but not an option for many more.",2016-12-17 02:49:55
+"No.1 app for banking sector","https://itunes.apple.com/in/reviews/id435862715","Vijayender","2.6.4","5","Trending app for ithrt newtworks",2016-10-13 17:45:27
+"Cannot see statements in credit card","https://itunes.apple.com/in/reviews/id284868955","Nirraj Guna","2.6.4","1","I cannot see statements in credit card. It does not even show due date for the payment. Very useless after update.",2016-10-10 21:56:29
+"Love the touch login but....","https://itunes.apple.com/in/reviews/id496153591","Ramjoshi1","2.6.3","1","Only when logs in. Perennially get the error message that there either no connectivity it is poor when I'm not on WiFi. This happens when I'm on 4g😳",2016-08-31 07:14:38
+"Cool Fingerprint login","https://itunes.apple.com/in/reviews/id479444512","Amir_Suhail","2.6.3","5","The new finger print login is too cool. Saves a lot of time.",2016-08-29 18:58:47
+"IMPS feature not available","https://itunes.apple.com/in/reviews/id149347532","mayoosekhar","2.6.3","1","Though I have installed the latest version, still IMPS option not available",2016-08-12 13:17:36
+"Love it!","https://itunes.apple.com/in/reviews/id313270698","VirafHeerjee","2.6.1","5","The app's great! But iOS 10 isn't supported 🙁",2016-08-10 12:50:28
+"Imps","https://itunes.apple.com/in/reviews/id258948735","Avkai","2.6.1","5","Please let us know when the Imps facility will be available with standard chartered bank .",2016-08-08 07:18:17
+"Simple and Efficient","https://itunes.apple.com/in/reviews/id510660286","Critic Belief","2.6.1","5","Kudos to Standard Chartered India for this simple and error-free app to get simple tasks done.
+
+Hope it can be made more powerful with more features and security while still keeping it simple and light.",2016-07-17 13:19:38
+"Touch ID Icon is missing for iPhone 5C","https://itunes.apple.com/in/reviews/id423852922","Vimavijay","2.6","4","Please update the App for iPhone to incorporate Touch icon.",2016-07-04 20:49:32
+"Needs improvement","https://itunes.apple.com/in/reviews/id479021279","Vinsyagarwa like","2.6","2","Team,
+There should be a provision to view and download the past statements in the app",2016-07-02 04:46:37
+"Touch ID creation failure","https://itunes.apple.com/in/reviews/id308259499","Saravanan BV","2.6","1","Trying to authenticate with Touch ID, but it's not getting enabled. I am using iPhone 5S. On the Touch ID creation getting only cancel button.
+
+Please fix the bug.",2016-07-01 07:48:32
+"Facing navigation issue from calendar view","https://itunes.apple.com/in/reviews/id498571518","Erujjwal","2.6","2","Navigate to previous month arrow is missing or can say that we can't view previous month trans from calendar.",2016-06-26 08:25:33
+"Why can't we add beneficiaries from this app","https://itunes.apple.com/in/reviews/id510889015","Thummala Rajesh","2.6","3","Your app would be most appreciated if u include the feature of adding new beneficiaries instead of logging into desktop all the time.",2016-06-25 04:09:46
+"Unable to use Touch ID","https://itunes.apple.com/in/reviews/id179672295","akhil schweinsteiger","2.6","1","I don't see the option to use Touch ID on my iPhone 6 iOS 8.3 .
+Kindly fix this bug .",2016-06-20 18:09:39
+"Touch Id","https://itunes.apple.com/in/reviews/id508306390","Sumit Nekar","2.6","4","Great addition of touch id login!",2016-06-19 19:18:16
+"Include option to add beneficiaries","https://itunes.apple.com/in/reviews/id499675671","Krish4003","2.6","2","Enabling touch id is much appreciated and most welcome. However at the same time, please include the option of adding beneficiaries in mobile banking. The very purpose of mobile banking gets defeated that every time we need to login to desktop version to add beneficiaries.",2016-06-19 17:56:43
+"Loved TouchID","https://itunes.apple.com/in/reviews/id445335548","Vadapalli","2.6","5","Yet to see cons of touch login but really loving this feature as I use app very often.",2016-06-19 17:30:21
+"Very good","https://itunes.apple.com/in/reviews/id480173571","Newchaitan","2.6","4","Good improvements 
+1) Nice UI
+2) Finger Print access working smoothly 
+Keep it up!!",2016-06-19 07:32:14
+"Credit Card Payment","https://itunes.apple.com/in/reviews/id214443721","RAHUMAT","2.6","1","Unlike other apps of credit card you don't have any option to make payment from third party account to SCB credit card through this application.  If it's available it will easier for many users to make payment through mobile app instead of going through website.  
+Hope you will include this option soon to benefit mobile users.",2016-06-19 07:23:44
+"Touch ID not working","https://itunes.apple.com/in/reviews/id169403793","VivInd","2.6","1","After enabling Touch ID on the latest version of the app, I can't login using Touch ID. Getting an error message saying 'General Exception'.",2016-06-19 07:16:30
+"Nice","https://itunes.apple.com/in/reviews/id340844772","Gopirockzz","2.5.3","5","Awsm",2016-05-28 14:47:09
+"Not enough features","https://itunes.apple.com/in/reviews/id460739132","(akbalboa)","2.5.1","1","It lacks features, not even moderately good enough. RTGS,NEFT, IMPS and many more plus you can't add a beneficiary. Only visa money transfer is available, there is a lot more. These are the basic functionalities provided by other banking apps.",2016-05-25 21:24:02
+"Good app","https://itunes.apple.com/in/reviews/id266951668","PP2709","2.5.1","5","Easy and simple to use App.",2016-05-04 13:41:00
+"Good app","https://itunes.apple.com/in/reviews/id357511958","GMU 16","2.5.1","5","Handy app banking",2016-04-21 11:49:26
+"Great app","https://itunes.apple.com/in/reviews/id501641251","GMU2016","2.5.1","5","Superb app nice UI.. Overall very good..",2016-04-21 11:48:36
+"Good app","https://itunes.apple.com/in/reviews/id196751234","Vino666@","2.5.1","4","Good simple app. But needs lots of improvements in transactions.",2016-03-29 20:23:51
+"User420","https://itunes.apple.com/in/reviews/id482216878","Pappe420","2.5.1","5","This the first app which really works the way it is meant to be, easy and neat.",2016-02-28 07:50:54
+"Good app","https://itunes.apple.com/in/reviews/id485198698","Mukesshh","2.4.2","5","Very good app",2015-12-30 04:47:43
+"IPhone 6 Issue","https://itunes.apple.com/in/reviews/id162728218","Niranjan.bhupendra","2.4.2","2","App takes time to load while launch first time. Seems splash screen does not load for iPhone  6. Otherwise app works gr8. Please fix initial splash screen loading issue.",2015-11-03 13:30:15
+"Crashing its not working at all now","https://itunes.apple.com/in/reviews/id435875804","Amit Mistry","2.4.2","1","Crashing on ios 6.1.3 iphone4 8 gb please do something bcoz it used to work earlier and then asked to update app since update this is not working tried uninstall and reinstall but no good
+Please provide previous app",2015-09-20 17:01:09
+"Strange visual","https://itunes.apple.com/in/reviews/id129251037","MH-IN","2.4.2","4","When app is launched a picture appears of a system with flashy eyes. Is it part of the app design? Looks like spy",2015-09-04 17:16:04
+"Good App","https://itunes.apple.com/in/reviews/id359918613","MahanteshAmbole","2.4.2","5","I am using this from last two years, very good app works fine even in weak internet, easy to fund transfer, but limited features, payee name cannot add by app this feature should be required.",2015-08-29 05:50:39
+"Crashes on iOS 6.2","https://itunes.apple.com/in/reviews/id353776299","Karthik's 6s","2.4.1","1","Crashes on iOS 6.2, please release update asap",2015-08-10 16:53:01
+"Need Improvement","https://itunes.apple.com/in/reviews/id214713421","Yubarajroy","2.3","5","There are two stages where you need to introduce only Numeric Keypad not the whole keyboard.
+1. Amount to be transferred 
+2. OTP",2015-07-25 15:56:49
+"Immediate crash","https://itunes.apple.com/in/reviews/id217534989","Mv0802","2.3","1","Plz fix ASAP o/w allow new upgrade with some quality check.",2015-02-08 07:06:43
+"Fools paradise","https://itunes.apple.com/in/reviews/id171574076","Lazybrain","2.2","1","This app is really foolish like its developers. When I am driving car with app in the background this idiotic app recognize this as a run. I want to know what the developers of this app are smoking. Guys don't waste your time behind this. Maymywalk/mapmyrun app is much better and accurate",2015-01-28 09:40:23
+"Less options","https://itunes.apple.com/in/reviews/id373753642","Ravikumar Gandhi","2.2","1","Should have following options
+1. Last statement
+2. Payment of credit card thro other banks
+3. Reward points redeem options",2014-12-28 05:54:20
+"Total waste","https://itunes.apple.com/in/reviews/id409841086","rajivgupta82","2.2","1","This app is a piece of crap.",2014-12-26 20:06:48
+"Best in Class App","https://itunes.apple.com/in/reviews/id127664683","iKapilGupta","2.2","5","I have used many banking apps but this one is the BEST.",2014-10-08 14:17:38
+"Shah","https://itunes.apple.com/in/reviews/id195043533","Suken shah","2.2","5","Great app",2014-08-09 01:35:58
+"Boring app","https://itunes.apple.com/in/reviews/id363461592","AnkiTttttt1","2.2","1","Standard chartered app is still having too less options compared to other banks app. Long way to go.",2014-07-22 16:59:46
+"Interface is user friendly","https://itunes.apple.com/in/reviews/id335845394","Papadragon17","2.1.1","4","NYC app,but it should have other bank cc payment option . Looking forward for a update.",2014-06-22 15:15:13
+"Pls fix keyboard UI to ios 7.1 look","https://itunes.apple.com/in/reviews/id381122802","Meera Sankaran","2.1.1","3","Feels odd to use old style keyboard. App overall is top good.",2014-06-19 04:20:16
+"Credit Card Payment","https://itunes.apple.com/in/reviews/id309704214","Pranay kumar","2.1.1","4","CC payment from the other banks should be given as one of the option.",2014-05-30 03:09:48
